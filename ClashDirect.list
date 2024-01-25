@@ -2,4 +2,4 @@
 
 DOMAIN,imap-mail.outlook.com
 DOMAIN,smtp-mail.outlook.com
-DOMAIN-KEYWORD,kstore
+DOMAIN-SUFFIX,kstore.space

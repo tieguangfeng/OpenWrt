@@ -1,0 +1,5 @@
+# DIRECT自定义
+
+DOMAIN,imap-mail.outlook.com
+DOMAIN,smtp-mail.outlook.com
+DOMAIN-KEYWORD,kstore

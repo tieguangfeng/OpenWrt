@@ -8,5 +8,4 @@ fallback-filter:
     - 0.0.0.0/32
   domain:
     - "+.google.com"
-    - "+.facebook.com"
     - "+.youtube.com"
